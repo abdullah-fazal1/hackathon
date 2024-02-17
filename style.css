@@ -1,0 +1,103 @@
+.nav1{
+    background-color:  #1c1e32;
+}
+.phone{
+    border-right: 1px solid gray !important;
+    color: #8486a0;
+    padding-left: 50px;
+    width:220px;
+  
+}
+.nav-link {
+    color: #8486a0  !important;
+}
+.email {
+    color: #8486a0  !important;
+padding-left: 10px;
+}
+.email a {
+    padding-left: 10px;
+    color: #8486a0;
+    font-size: 12px;
+    text-decoration: none;
+}
+.sub-nav{
+    background-color: #2b2e4a;
+    padding-bottom: 10px !important;
+}
+.royal{
+    color: #f77d0a;
+}
+.home{
+    color: #f77d0a;
+}.sub-nav{
+    margin-top: 0%;
+    position: relative;
+    bottom: 40px;
+}
+.nav-item{
+    margin-left: 30px;
+    /* font-weight: bold; */
+}
+.nav-item a {
+    color: white !important;
+    font-size: 18px !important;
+
+}
+.searchbtn{
+    /* width: 100%; */
+   background-color:  #f77d0a;
+   color: white;
+}
+.col-md-2{
+    margin-top: -16px;
+    padding: 5px;
+}
+.col-md-2:active{
+    border: 1px solid   #f77d0a;
+}
+.drop{
+    border: none !important;
+    padding: 10px;
+    width: 100%;
+    background-color: whitwhite !important;
+}
+#carouselExampleControls{
+    height: 100vh !important;
+}
+.picH{
+    position: relative;
+    bottom: 30px !important;
+
+}
+.hading{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.rent{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.yelo{
+    color: #f77d0a;
+}
+#yeli1,#yeli2{
+   
+font-weight: bold !important;
+text-align: center !important;
+font-size: 70px !important;
+}
+#yeli1{
+   margin-top: 200px !important;
+}
+.imgcar{
+    margin-left: 150px !important;
+}
+.para{
+    
+    margin: auto 0;
+
+}
